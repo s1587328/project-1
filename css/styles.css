@@ -97,8 +97,8 @@ h1, h2, h3 {
     padding: 10px;
 }
 .mats {
-    display: flex;
-    grid-template: auto / 1fr 1fr;
+    display: grid;
+    grid-template: auto / 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 28px;
     padding: 30px 40px;
