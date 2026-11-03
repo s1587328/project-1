@@ -79,7 +79,6 @@ h1, h2, h3 {
 }
 .site-header, .hero, .site-footer {
     grid-column: span 2;
-    border: 3px solid #ffae00;
 }
 .site-header, .site-footer {
     display: flex;
