@@ -99,3 +99,10 @@ h1, h2, h3 {
     height: 230px;
     object-fit: cover;
 }
+.mat h3 {
+    margin: 14px 0 6px;
+}
+.mat p {
+    font-size: 16px;
+    color: #f4f1ea;
+}
