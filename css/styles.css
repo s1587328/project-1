@@ -1,7 +1,7 @@
 /* COLORS
-    dark black #191715
-    light black #fbfaf0
-    text #e1d8c8 */
+    dark black #0b0b0b
+    light black #f4f1ea
+    text #f4f1ea */
 
 * {
     box-sizing: border-box;
@@ -11,7 +11,7 @@
 body {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    background: #f4f1ea;
+    background: #191919;
     color: #111111;
     font-family: 'Work Sans', sans-serif;
     font-size: 18px;
