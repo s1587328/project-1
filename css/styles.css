@@ -113,6 +113,15 @@ h1, h2, h3 {
     height: 240px;
     object-fit: cover;
 }
+.ex-title {
+    font-size: 48px;
+    padding: 4px 12px;
+    gap: 6px;
+    display: grid;
+    grid-template: 1fr;
+    border: 3px rgb(23, 183, 23);
+    text-align: center;
+}
 .ex {
     padding: 4px 12px;
     gap: 6px;
