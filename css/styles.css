@@ -70,19 +70,8 @@ h1, h2, h3 {
     justify-content: center;
     gap: 20px;
     min-height: 520px;
+    background: url('../images/1-banner.png') no-repeat center center;
     color: #f4f1ea;
-    z-index: 1;
-}
-.hero-img {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 48px 32px;
-    text-align: center;
-    justify-content: center;
-    gap: 20px;
-    min-height: 520px;
-    z-index: 0;
 }
 .hero h1 {
     font-size: 96px;
