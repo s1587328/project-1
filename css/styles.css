@@ -95,12 +95,13 @@ h1, h2, h3 {
     text-align: center;
     justify-content: center;
     padding: 10px;
-    font-size: 42px;
+    font-size: 62px;
 }
 .mats {
     display: flex;
     grid-template: auto / 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto;
     gap: 28px;
     padding: 30px 40px;
 }
@@ -120,4 +121,5 @@ h1, h2, h3 {
     padding: 30px 40px;
     text-align: center;
     justify-content: center;
+    border: 3px solid #00ff2f;
 }
