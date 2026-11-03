@@ -120,4 +120,6 @@ h1, h2, h3 {
     text-align: center;
     justify-content: center;
     border: 3px solid #00ff2f;
+    position: absolute;
+    left: 50%;
 }
