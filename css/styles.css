@@ -89,7 +89,6 @@ h1, h2, h3 {
     color: #f4f1ea;
 }
 .title {
-    margin: 14px 0 6px;
     position: relative;
     align-items: center;
     display: flex;
@@ -118,7 +117,7 @@ h1, h2, h3 {
     border: 3px solid #009dff;
 }
 .body {
-    padding: 30px 40px;
+    padding: 30px 0px;
     text-align: center;
     justify-content: center;
     border: 3px solid #00ff2f;
