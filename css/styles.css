@@ -122,14 +122,13 @@ h1, h2, h3 {
     text-align: center;
 }
 .ex {
-    padding: 4px 12px;
-    gap: 6px;
+    padding: 16px 12px;
+    gap: 10px;
     display: grid;
-    grid-template: 2fr 1fr;
+    grid-template: 1fr 1fr;
 }
 .ex img {
-    width: 90%;
-    height: 90%;
+    width: 100%;
     object-fit: cover;
 }
 .body {
