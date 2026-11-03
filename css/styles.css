@@ -125,7 +125,7 @@ h1, h2, h3 {
     padding: 16px 12px;
     gap: 10px;
     display: grid;
-    grid-template: 1fr 1fr;
+    grid-template: 2fr 2fr;
 }
 .ex img {
     width: 100%;
