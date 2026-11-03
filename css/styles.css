@@ -110,7 +110,8 @@ h1, h2, h3 {
 }
 .mat img {
     width: 100%;
-    max-width: 400px;
+    max-width: 780px;
+    min-width: 200px;
     height: 240px;
     object-fit: cover;
 }
