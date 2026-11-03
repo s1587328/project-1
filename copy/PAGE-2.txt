@@ -1,0 +1,11 @@
+Andrew Price
+"If you are ever lost, just draw a donut."
+
+Who
+Andrew Price is a prominent educator in the Blender community. He founded the channel "Blender Guru" in 2008, creating accessible tutorials for beginners and advanced users alike. His YouTube channel is widely regarded as a starting point for new Blender artists.
+
+Some of his major contributions include promotion of project-based learning, support for learning concepts and techniques consistently from the beginner to advanced levels, and the infamous donut tutorial.
+
+"Blender Guru's Donut Tutorial: Is It Worth It? Yes for your first Blender project, no if you expect job-ready 3D skill from one series. It helps you learn modeling, materials, lighting, rendering, and Blender’s interface through one guided object, but many beginners still struggle to build original work after finishing it. It's best for beginners who need structure and a quick first win, opening the door for the real test of rebuilding from memory, making your own variation, and keeping clean file and rights records." - Blended Boris
+
+"Even though some new users find it hard to follow along, his work helps bridge the skill gap between being lost and gaining a general basic understanding of everything 3D. His other tutorials build upon the donut, filling in gaps which some users may have needed filled and them some. His presence is generally appreciated and he only continues contributing to a community which he had started giving to over 15+ years ago." - Various user sentiments
