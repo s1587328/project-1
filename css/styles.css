@@ -128,13 +128,8 @@ h1, h2, h3 {
     grid-template: 2fr 1fr;
 }
 .ex img {
-    width: auto;
-    height: auto;
-    object-fit: cover;
-}
-.ex-resize {
-    width: 70%;
-    height: 70%;
+    width: 50%;
+    height: 50%;
     object-fit: cover;
 }
 .body {
