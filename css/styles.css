@@ -88,6 +88,17 @@ h1, h2, h3 {
     color: #f4f1ea;
 }
 
+.major {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 48px 32px;
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+    min-height: 520px;
+    color: #f4f1ea;
+}
 .mats {
     display: grid;
     grid-template: auto / 1fr 1fr;
