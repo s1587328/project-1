@@ -76,7 +76,7 @@ h1, h2, h3 {
 .hero h1 {
     font-size: 96px;
 }
-.site-header, .hero, .people, .site-footer {
+.site-header, .hero, .site-footer {
     grid-column: span 2;
 }
 .site-header, .site-footer {
@@ -91,7 +91,12 @@ h1, h2, h3 {
     display: grid;
     grid-template: auto / 1fr 1fr;
     gap: 28px;
-    padding-bottom: 60px;
+    padding: 30px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
 }
 .mat img {
     width: 100%;
@@ -109,173 +114,4 @@ h1, h2, h3 {
 .mat p {
     font-size: 16px;
     color: #f4f1ea;
-}
-
-
-.page-1-main,
-.page-1-main * {
-  box-sizing: border-box;
-}
-.page-1-main {
-  background: #ffffff;
-  height: 4200px;
-  position: relative;
-  overflow: hidden;
-}
-.banner-2-1 {
-  height: 810px;
-  position: absolute;
-  right: 0px;
-  left: 0px;
-  top: 0px;
-  object-fit: cover;
-  aspect-ratio: 16/9;
-}
-.m-1-1 {
-  width: 642px;
-  height: 423px;
-  position: absolute;
-  left: 56px;
-  top: 972px;
-  object-fit: cover;
-  aspect-ratio: 642/423;
-}
-.m-2-1 {
-  width: 642px;
-  height: 423px;
-  position: absolute;
-  left: 738px;
-  top: 973px;
-  object-fit: cover;
-  aspect-ratio: 642/423;
-}
-.ex-1-1 {
-  width: 797px;
-  height: 448px;
-  position: absolute;
-  left: 102px;
-  top: 1734px;
-  object-fit: cover;
-  aspect-ratio: 797/448;
-}
-.ex-2-1 {
-  width: 797px;
-  height: 448px;
-  position: absolute;
-  left: 102px;
-  top: 2210px;
-  object-fit: cover;
-  aspect-ratio: 797/448;
-}
-.ex-3-1 {
-  width: 419px;
-  height: 922px;
-  position: absolute;
-  left: 919px;
-  top: 1734px;
-  object-fit: cover;
-  aspect-ratio: 419/922;
-}
-.stone-and-glass-what-s-the-difference {
-  color: #ffffff;
-  text-align: center;
-  font-family: "EstedadVf-Thin", sans-serif;
-  font-size: 37.5px;
-  font-weight: 100;
-  position: absolute;
-  left: 48px;
-  top: 872px;
-  width: 1342px;
-  height: 88px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.website-examples {
-  color: #ffffff;
-  text-align: center;
-  font-family: "EstedadVf-Thin", sans-serif;
-  font-size: 64px;
-  font-weight: 100;
-  position: absolute;
-  left: 302px;
-  top: 2672px;
-  width: 835px;
-  height: 219px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.material-in-sites {
-  color: #ffffff;
-  text-align: center;
-  font-family: "EstedadVf-Thin", sans-serif;
-  font-size: 125px;
-  font-weight: 100;
-  position: absolute;
-  left: 93px;
-  top: 221px;
-  width: 1254px;
-  height: 184px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.surface-level-information-relating-to-the-usage-of-both-rough-and-trans-missive-materials-in-website-design {
-  color: #ffffff;
-  text-align: center;
-  font-family: "EstedadVf-Thin", sans-serif;
-  font-size: 36.900001525878906px;
-  font-weight: 100;
-  position: absolute;
-  left: 267px;
-  top: 350px;
-  width: 905px;
-  height: 252px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.we-can-use-material-properties-to-diagnose-the-fundamental-difference-between-these-two-materials-roughness-scatters-reflecting-light-rays-which-creates-less-shine-a-clear-characteristic-of-natural-stone-some-rough-materials-are-still-capable-of-reflection-thanks-to-specular-determining-how-much-is-possible-transmission-dictates-how-clearly-light-can-pass-through-something-a-clear-characteristic-of-most-glass-depending-on-the-trans-missive-material-light-may-bounce-around-internally-creating-more-diffused-shadows-using-this-knowledge-try-seeing-which-materials-have-more-roughness-specular-transmission-and-diffusion {
-  color: #ffffff;
-  text-align: center;
-  font-family: "EstedadVf-Thin", sans-serif;
-  font-size: 16px;
-  font-weight: 100;
-  position: absolute;
-  left: 102px;
-  top: 1442px;
-  width: 1236px;
-  height: 354px;
-}
-.slideshow {
-  background: #d9d9d9;
-  width: 1236px;
-  height: 589px;
-  position: absolute;
-  left: 102px;
-  top: 2875px;
-}
-.slideshow-info {
-  background: #d9d9d9;
-  width: 1236px;
-  height: 233px;
-  position: absolute;
-  left: 102px;
-  top: 3491px;
-}
-.en-2018-tight-media-nytimes-com-interactive-bureau-cool {
-  color: #000000;
-  text-align: left;
-  font-family: "EstedadVf-Regular", sans-serif;
-  font-size: 32px;
-  font-weight: 400;
-  position: absolute;
-  left: 118px;
-  top: 3198px;
-  width: 419px;
-  height: 345px;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
 }
