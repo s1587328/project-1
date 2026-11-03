@@ -95,12 +95,10 @@ h1, h2, h3 {
     justify-content: center;
     padding: 10px;
     font-size: 62px;
-    border: 3px solid #ff000d;
 }
 .mats {
     gap: 28px;
     padding: 10px 20px;
-    border: 3px solid #a6ff00;
 }
 .mats grid {
     display: flex;
@@ -126,10 +124,14 @@ h1, h2, h3 {
     height: 100%;
     object-fit: cover;
 }
+.ex-resize {
+    width: 70%;
+    height: 70%;
+    object-fit: cover;
+}
 .body {
     padding: 4px 12px;
     text-align: center;
     justify-content: center;
     min-width: 250px;
-    border: 3px solid #00ff2f;
 }
