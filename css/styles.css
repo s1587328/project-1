@@ -108,6 +108,17 @@ h1, h2, h3 {
     justify-content: center;
     padding: 10px;
 }
+.description {
+    margin: 14px 0 6px;
+    position: relative;
+    margin: 14px 0 6px;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    flex-direction: column;
+}
 .mat h3 {
     margin: 14px 0 6px;
 }
