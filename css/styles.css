@@ -138,6 +138,10 @@ h1, h2, h3 {
     min-width: 250px;
 }
 .body-grid {
+    padding: 4px 12px;
+    text-align: center;
+    justify-content: center;
+    min-width: 250px;
     display: grid;
-    grid-template: 2fr 2fr;
+    grid-template: 2fr;
 }
