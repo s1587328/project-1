@@ -137,3 +137,7 @@ h1, h2, h3 {
     justify-content: center;
     min-width: 250px;
 }
+.body-grid {
+    display: grid;
+    grid-template: 2fr 2fr;
+}
